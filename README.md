@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caleb</h1>
 <h3 align="center">A passionate Software Engineering student in Texas</h3>
 
-- 🌱 I’m currently learning **Databases & Operating Systems**
+- 🌱 I’m currently learning **Theoretical Concepts of CSE, Object-Oriented SWE, and How Programming Languages Work**
 
 - 👀 I’m interested in:
   - **Cybersecurity/Privacy**
